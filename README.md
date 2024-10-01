@@ -1,5 +1,5 @@
 # easyfilego
-This is a package for GoLang to make file handling more simple.
+This is a package for GoLang to make file handling simpler.
 
 There are couple of modes in this to open a file.
 
